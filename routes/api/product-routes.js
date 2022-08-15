@@ -137,6 +137,6 @@ router.delete('/:id', async(req, res) => {
   }
 });
 
-module.exports = router; // delete one product by its `id` value
+module.exports = router; 
 
 
